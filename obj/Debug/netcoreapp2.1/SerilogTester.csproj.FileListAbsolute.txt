@@ -1,0 +1,11 @@
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\bin\Debug\netcoreapp2.1\SerilogTester.deps.json
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\bin\Debug\netcoreapp2.1\SerilogTester.runtimeconfig.json
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\bin\Debug\netcoreapp2.1\SerilogTester.runtimeconfig.dev.json
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\bin\Debug\netcoreapp2.1\SerilogTester.dll
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\obj\Debug\netcoreapp2.1\SerilogTester.csprojAssemblyReference.cache
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\obj\Debug\netcoreapp2.1\SerilogTester.csproj.CoreCompileInputs.cache
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\obj\Debug\netcoreapp2.1\SerilogTester.AssemblyInfoInputs.cache
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\obj\Debug\netcoreapp2.1\SerilogTester.AssemblyInfo.cs
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\bin\Debug\netcoreapp2.1\SerilogTester.pdb
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\obj\Debug\netcoreapp2.1\SerilogTester.dll
+c:\users\ktve02\source\repos\SerilogTester\SerilogTester\obj\Debug\netcoreapp2.1\SerilogTester.pdb
